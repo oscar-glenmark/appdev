@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'school_db';
+$db   = 'db_list';
 $user = 'root';
 $pass = '';
 $char = 'utf8mb4';
